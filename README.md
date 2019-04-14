@@ -3,11 +3,12 @@
 黑洞图片生成器，协助生成微信公众号头图。 自由不侵权，game404 出品。
 
 ```
-  ____   _               _     _             _
- | __ ) | |  __ _   ___ | | __| |__    ___  | |  ___
- |  _ \ | | / _` | / __|| |/ /| '_ \  / _ \ | | / _ \
- | |_) || || (_| || (__ |   < | | | || (_) || ||  __/
- |____/ |_| \__,_| \___||_|\_\|_| |_| \___/ |_| \___|
+                                _  _     ___   _  _
+  __ _   __ _  _ __ ___    ___ | || |   / _ \ | || |
+ / _` | / _` || '_ ` _ \  / _ \| || |_ | | | || || |_
+| (_| || (_| || | | | | ||  __/|__   _|| |_| ||__   _|
+ \__, | \__,_||_| |_| |_| \___|   |_|   \___/    |_|
+ |___/
 
 ```
 
@@ -71,12 +72,13 @@ Options:
 熊爪
 ![bear](example/Blackhole_2.png)
 像素风
-![pixel](example/Blackhole_4.png)
+![pixel](example/Blackhole_4_pixel.png)
 楷体像素风
-![tiger](example/youxibucunzai_1_pixel.png)
+![game404](example/youxibucunzai_1_pixel.png)
 
 
 ## 参考项目
 
 * [click命令行](https://github.com/pallets/click)
+* [asciiart](https://github.com/sepandhaghighi/art)
 * [英文字体库](https://www.fontpalace.com)
