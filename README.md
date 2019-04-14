@@ -60,7 +60,7 @@ Options:
 ### docker使用
 
 ```
---word docker
+docker run -it -v $PWD/output:/app/output --rm game404/blackhole --word hello
 ```
 
 ### 效果图
